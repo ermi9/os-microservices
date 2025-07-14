@@ -1,4 +1,4 @@
-# 🐳 OS Docker Project
+# 🐳 OS Microservices
 
 This project is a simple system monitoring app made with Docker. It uses Python microservices that talk to each other through Redis.
 
