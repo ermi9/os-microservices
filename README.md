@@ -16,8 +16,8 @@ This project is a simple system monitoring app made with Docker. It uses Python 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ermi9/os-docker-project.git
-   cd os-docker-project
+   git clone https://github.com/ermi9/os-microservices.git
+   cd os-microservices
    
 2.
 ```
