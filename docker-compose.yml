@@ -1,0 +1,30 @@
+
+services:
+  redis-cache:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - my_custom_net
+
+  monitor-service:
+    build: ./monitor-service
+    ports:
+      - "5000:5000"
+    depends_on:
+      - redis-cache
+    networks:
+      - my_custom_net
+
+  log-writer:
+    build: ./log-writer
+    depends_on:
+      - redis-cache
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - my_custom_net
+
+networks:
+  my_custom_net:
+    driver: bridge

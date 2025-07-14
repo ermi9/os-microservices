@@ -1,0 +1,385 @@
+[2025-07-10 20:17:54] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2589028352, "used": 1040482304, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:18:08] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2584997888, "used": 1044561920, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:18:19] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583175168, "used": 1046380544, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:18:33] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2579701760, "used": 1049858048, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:18:44] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2579480576, "used": 1050075136, "percent": 32.5}, "pids": [1]}
+[2025-07-10 20:18:55] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2584580096, "used": 1044979712, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:19:09] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2581073920, "used": 1048485888, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:19:20] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2580992000, "used": 1048567808, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:19:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2574671872, "used": 1054879744, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:19:44] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2573512704, "used": 1056038912, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:19:55] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2571153408, "used": 1058398208, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:20:06] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2570928128, "used": 1058623488, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:20:20] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2569428992, "used": 1060126720, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:20:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2567467008, "used": 1062088704, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:20:45] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2567925760, "used": 1061629952, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:20:56] {"cpu_percent": 1.0, "memory": {"total": 3818835968, "available": 2573459456, "used": 1056071680, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:21:07] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2570813440, "used": 1058729984, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:21:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2570309632, "used": 1059233792, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:21:32] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2564984832, "used": 1064452096, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:21:43] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2559762432, "used": 1069678592, "percent": 33.0}, "pids": [1]}
+[2025-07-10 20:21:56] {"cpu_percent": 0.9, "memory": {"total": 3818835968, "available": 2568626176, "used": 1060909056, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:22:07] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2565926912, "used": 1063411712, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:22:21] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2583863296, "used": 1045467136, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:22:32] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586431488, "used": 1043103744, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:22:43] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2584346624, "used": 1045188608, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:22:57] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2586157056, "used": 1043378176, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:23:08] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2588008448, "used": 1041526784, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:23:19] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2588930048, "used": 1040605184, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:23:33] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2588672000, "used": 1040855040, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:23:44] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586365952, "used": 1043148800, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:23:55] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2584498176, "used": 1045032960, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:24:08] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2582069248, "used": 1047457792, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:24:19] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2584702976, "used": 1044828160, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:24:33] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2586386432, "used": 1043144704, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:24:44] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2585968640, "used": 1043562496, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:24:55] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2584780800, "used": 1044750336, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:25:09] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2584297472, "used": 1045233664, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:25:20] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2583363584, "used": 1046167552, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:25:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2589560832, "used": 1039970304, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:25:45] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2592235520, "used": 1037295616, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:25:56] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2596134912, "used": 1033400320, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:26:07] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2596380672, "used": 1033154560, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:26:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2596970496, "used": 1032564736, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:26:32] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2597072896, "used": 1032462336, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:26:45] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2597560320, "used": 1031974912, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:26:56] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2597134336, "used": 1032400896, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:27:07] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2596093952, "used": 1033441280, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:27:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2595844096, "used": 1033687040, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:27:32] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2594189312, "used": 1035341824, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:27:43] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2592022528, "used": 1037508608, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:27:57] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2601680896, "used": 1027850240, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:28:08] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2604486656, "used": 1025044480, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:28:22] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2605928448, "used": 1023602688, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:28:33] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2604208128, "used": 1025323008, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:28:44] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2602135552, "used": 1027387392, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:28:57] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2604769280, "used": 1024753664, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:29:08] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2609733632, "used": 1019772928, "percent": 31.7}, "pids": [1]}
+[2025-07-10 20:29:19] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2608947200, "used": 1020583936, "percent": 31.7}, "pids": [1]}
+[2025-07-10 20:29:33] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2607923200, "used": 1021599744, "percent": 31.7}, "pids": [1]}
+[2025-07-10 20:29:44] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2604388352, "used": 1025142784, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:29:55] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2604642304, "used": 1024888832, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:30:08] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2603876352, "used": 1025654784, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:30:19] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2604269568, "used": 1025261568, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:30:33] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2606305280, "used": 1023225856, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:30:44] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2603925504, "used": 1025605632, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:30:56] {"cpu_percent": 1.0, "memory": {"total": 3818835968, "available": 2605502464, "used": 1024028672, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:31:09] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2605084672, "used": 1024446464, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:31:20] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2603618304, "used": 1025912832, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:31:31] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2603413504, "used": 1026117632, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:31:45] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2604527616, "used": 1024995328, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:31:56] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2605920256, "used": 1023610880, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:32:07] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2605699072, "used": 1023832064, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:32:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2603618304, "used": 1025912832, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:32:32] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2602721280, "used": 1026809856, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:32:46] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2602737664, "used": 1026793472, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:32:57] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2600300544, "used": 1029230592, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:33:08] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2600042496, "used": 1029488640, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:33:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2603716608, "used": 1025814528, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:33:32] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2604208128, "used": 1025306624, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:33:43] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2603548672, "used": 1025982464, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:33:58] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2603442176, "used": 1026088960, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:34:09] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2603786240, "used": 1025744896, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:34:23] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2603876352, "used": 1025654784, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:34:34] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2603282432, "used": 1026248704, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:34:45] {"cpu_percent": 7.9, "memory": {"total": 3818835968, "available": 2601996288, "used": 1027534848, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:34:59] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2603450368, "used": 1026080768, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:35:10] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2602737664, "used": 1026793472, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:35:21] {"cpu_percent": 1.7, "memory": {"total": 3818835968, "available": 2603008000, "used": 1026523136, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:35:34] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2602950656, "used": 1026576384, "percent": 31.8}, "pids": [1]}
+[2025-07-10 20:35:45] {"cpu_percent": 6.0, "memory": {"total": 3818835968, "available": 2606682112, "used": 1022844928, "percent": 31.7}, "pids": [1]}
+[2025-07-10 20:35:56] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2599604224, "used": 1029877760, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:36:10] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2600652800, "used": 1028841472, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:36:21] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2599948288, "used": 1029545984, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:36:35] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2600607744, "used": 1028886528, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:36:46] {"cpu_percent": 6.7, "memory": {"total": 3818835968, "available": 2598764544, "used": 1030696960, "percent": 31.9}, "pids": [1]}
+[2025-07-10 20:36:57] {"cpu_percent": 0.9, "memory": {"total": 3818835968, "available": 2596167680, "used": 1033326592, "percent": 32.0}, "pids": [1]}
+[2025-07-10 20:37:11] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2567643136, "used": 1061851136, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:37:22] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2567593984, "used": 1061900288, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:37:33] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2569912320, "used": 1059581952, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:37:46] {"cpu_percent": 7.4, "memory": {"total": 3818835968, "available": 2570055680, "used": 1059438592, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:37:57] {"cpu_percent": 3.5, "memory": {"total": 3818835968, "available": 2571739136, "used": 1057755136, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:38:11] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2572513280, "used": 1056980992, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:38:22] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2571493376, "used": 1058000896, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:38:33] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2571227136, "used": 1058267136, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:38:47] {"cpu_percent": 5.5, "memory": {"total": 3818835968, "available": 2570330112, "used": 1059164160, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:38:58] {"cpu_percent": 1.0, "memory": {"total": 3818835968, "available": 2568941568, "used": 1060544512, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:39:09] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2570489856, "used": 1059004416, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:39:23] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2572607488, "used": 1056886784, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:39:34] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2572541952, "used": 1056952320, "percent": 32.6}, "pids": [1]}
+[2025-07-10 20:39:45] {"cpu_percent": 13.0, "memory": {"total": 3818835968, "available": 2571767808, "used": 1057726464, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:39:58] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2571083776, "used": 1058402304, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:40:09] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2569687040, "used": 1059799040, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:40:23] {"cpu_percent": 1.9, "memory": {"total": 3818835968, "available": 2569179136, "used": 1060315136, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:40:34] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2569936896, "used": 1059557376, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:40:45] {"cpu_percent": 9.4, "memory": {"total": 3818835968, "available": 2568916992, "used": 1060577280, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:40:59] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2567880704, "used": 1061613568, "percent": 32.8}, "pids": [1]}
+[2025-07-10 20:41:10] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2568638464, "used": 1060855808, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:41:21] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2571014144, "used": 1058480128, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:41:37] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2570944512, "used": 1058541568, "percent": 32.7}, "pids": [1]}
+[2025-07-10 20:41:48] {"cpu_percent": 6.2, "memory": {"total": 3818835968, "available": 2582777856, "used": 1046716416, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:41:59] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2582724608, "used": 1046769664, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:42:10] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583138304, "used": 1046347776, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:42:21] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583326720, "used": 1046155264, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:42:35] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2581250048, "used": 1048231936, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:42:46] {"cpu_percent": 6.0, "memory": {"total": 3818835968, "available": 2583482368, "used": 1046007808, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:42:57] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2581553152, "used": 1047937024, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:43:12] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2582593536, "used": 1046888448, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:43:23] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2584932352, "used": 1044557824, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:43:34] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586238976, "used": 1043251200, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:43:48] {"cpu_percent": 5.1, "memory": {"total": 3818835968, "available": 2587869184, "used": 1041620992, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:43:59] {"cpu_percent": 1.0, "memory": {"total": 3818835968, "available": 2584571904, "used": 1044918272, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:44:08] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2586206208, "used": 1043283968, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:44:23] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2590154752, "used": 1039335424, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:44:34] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2588344320, "used": 1041145856, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:44:48] {"cpu_percent": 4.3, "memory": {"total": 3818835968, "available": 2591911936, "used": 1037578240, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:44:59] {"cpu_percent": 1.4, "memory": {"total": 3818835968, "available": 2590900224, "used": 1038540800, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:45:10] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2589310976, "used": 1040130048, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:45:24] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586738688, "used": 1042702336, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:45:35] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583416832, "used": 1046065152, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:45:46] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2585104384, "used": 1044385792, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:46:03] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2588254208, "used": 1041235968, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:46:14] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2587492352, "used": 1041997824, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:46:20] {"cpu_percent": 2.5, "memory": {"total": 3818835968, "available": 2587242496, "used": 1042247680, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:46:39] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586460160, "used": 1043030016, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:46:50] {"cpu_percent": 7.6, "memory": {"total": 3818835968, "available": 2588610560, "used": 1040879616, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:46:55] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2592571392, "used": 1036918784, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:47:12] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2590183424, "used": 1039306752, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:47:23] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2589679616, "used": 1039810560, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:47:34] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2588561408, "used": 1040928768, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:47:45] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2587803648, "used": 1041686528, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:47:51] {"cpu_percent": 2.8, "memory": {"total": 3818835968, "available": 2588233728, "used": 1041256448, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:48:07] {"cpu_percent": 3.0, "memory": {"total": 3818835968, "available": 2586435584, "used": 1043054592, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:48:18] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2591555584, "used": 1037922304, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:48:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2589937664, "used": 1039540224, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:48:42] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2587684864, "used": 1041760256, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:48:53] {"cpu_percent": 2.8, "memory": {"total": 3818835968, "available": 2590453760, "used": 1039032320, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:49:07] {"cpu_percent": 2.8, "memory": {"total": 3818835968, "available": 2590461952, "used": 1039024128, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:49:18] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2589171712, "used": 1040314368, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:49:29] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2588270592, "used": 1041215488, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:49:44] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2587766784, "used": 1041711104, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:49:55] {"cpu_percent": 3.6, "memory": {"total": 3818835968, "available": 2589396992, "used": 1040089088, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:50:03] {"cpu_percent": 3.0, "memory": {"total": 3818835968, "available": 2586836992, "used": 1042649088, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:50:23] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2585886720, "used": 1043599360, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:50:34] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2585325568, "used": 1044148224, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:50:45] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2586152960, "used": 1043329024, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:50:56] {"cpu_percent": 1.8, "memory": {"total": 3818835968, "available": 2582962176, "used": 1046519808, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:51:07] {"cpu_percent": 3.6, "memory": {"total": 3818835968, "available": 2585038848, "used": 1044434944, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:51:20] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2582446080, "used": 1047027712, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:51:31] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583269376, "used": 1046204416, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:51:42] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2584608768, "used": 1044873216, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:51:55] {"cpu_percent": 3.3, "memory": {"total": 3818835968, "available": 2583150592, "used": 1046331392, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:52:06] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2580566016, "used": 1048907776, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:52:18] {"cpu_percent": 8.0, "memory": {"total": 3818835968, "available": 2582237184, "used": 1047244800, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:52:29] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2583613440, "used": 1045868544, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:52:40] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2583375872, "used": 1046106112, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:52:53] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2583924736, "used": 1045557248, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:53:04] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583379968, "used": 1046102016, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:53:15] {"cpu_percent": 8.0, "memory": {"total": 3818835968, "available": 2589310976, "used": 1040171008, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:53:30] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2588725248, "used": 1040756736, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:53:41] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2588098560, "used": 1041379328, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:53:50] {"cpu_percent": 2.0, "memory": {"total": 3818835968, "available": 2590081024, "used": 1039396864, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:54:07] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2591625216, "used": 1037852672, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:54:18] {"cpu_percent": 6.6, "memory": {"total": 3818835968, "available": 2591166464, "used": 1038311424, "percent": 32.1}, "pids": [1]}
+[2025-07-10 20:54:30] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2590691328, "used": 1038786560, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:54:41] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2589978624, "used": 1039499264, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:54:53] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2588188672, "used": 1041289216, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:55:06] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2587860992, "used": 1041612800, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:55:17] {"cpu_percent": 6.7, "memory": {"total": 3818835968, "available": 2587926528, "used": 1041555456, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:55:28] {"cpu_percent": 0.9, "memory": {"total": 3818835968, "available": 2587418624, "used": 1042063360, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:55:42] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2587566080, "used": 1041915904, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:55:53] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2584010752, "used": 1045471232, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:56:02] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2586701824, "used": 1042780160, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:56:20] {"cpu_percent": 7.2, "memory": {"total": 3818835968, "available": 2590154752, "used": 1039327232, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:56:31] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2587570176, "used": 1041907712, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:56:43] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2590294016, "used": 1039183872, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:56:54] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2589028352, "used": 1040449536, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:57:05] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2588803072, "used": 1040674816, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:57:19] {"cpu_percent": 6.7, "memory": {"total": 3818835968, "available": 2588037120, "used": 1041440768, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:57:30] {"cpu_percent": 1.4, "memory": {"total": 3818835968, "available": 2587521024, "used": 1041956864, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:57:41] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2588045312, "used": 1041432576, "percent": 32.2}, "pids": [1]}
+[2025-07-10 20:57:58] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2585300992, "used": 1044176896, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:58:09] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2584997888, "used": 1044480000, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:58:14] {"cpu_percent": 7.7, "memory": {"total": 3818835968, "available": 2584514560, "used": 1044963328, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:58:31] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2585579520, "used": 1043898368, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:58:42] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2585591808, "used": 1043886080, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:58:55] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2582966272, "used": 1046511616, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:59:06] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2584780800, "used": 1044697088, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:59:17] {"cpu_percent": 6.3, "memory": {"total": 3818835968, "available": 2583556096, "used": 1045921792, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:59:33] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2583797760, "used": 1045680128, "percent": 32.3}, "pids": [1]}
+[2025-07-10 20:59:44] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2581712896, "used": 1047764992, "percent": 32.4}, "pids": [1]}
+[2025-07-10 20:59:50] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2585903104, "used": 1043574784, "percent": 32.3}, "pids": [1]}
+[2025-07-10 21:00:08] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2583310336, "used": 1046159360, "percent": 32.4}, "pids": [1]}
+[2025-07-10 21:00:19] {"cpu_percent": 6.5, "memory": {"total": 3818835968, "available": 2587979776, "used": 1041498112, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:00:31] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2589286400, "used": 1040187392, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:00:42] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2590670848, "used": 1038602240, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:00:53] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2592092160, "used": 1037381632, "percent": 32.1}, "pids": [1]}
+[2025-07-10 21:01:07] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2590932992, "used": 1038524416, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:01:18] {"cpu_percent": 7.0, "memory": {"total": 3818835968, "available": 2589892608, "used": 1039544320, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:01:29] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2589474816, "used": 1039990784, "percent": 32.2}, "pids": [1]}
+[2025-07-10 21:01:44] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2591358976, "used": 1038114816, "percent": 32.1}, "pids": [1]}
+[2025-07-10 21:01:55] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2581864448, "used": 1047609344, "percent": 32.4}, "pids": [1]}
+[2025-07-11 13:32:16] {"cpu_percent": 1.7, "memory": {"total": 3818835968, "available": 2615619584, "used": 1011494912, "percent": 31.5}, "pids": [1]}
+[2025-07-11 13:32:27] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2612850688, "used": 1014280192, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:32:38] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2612850688, "used": 1014280192, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:32:46] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2607644672, "used": 1019416576, "percent": 31.7}, "pids": [1]}
+[2025-07-11 13:32:57] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2612703232, "used": 1018376192, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:33:09] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2609512448, "used": 1022242816, "percent": 31.7}, "pids": [1]}
+[2025-07-11 13:33:17] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2611552256, "used": 1020194816, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:33:28] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2609860608, "used": 1021845504, "percent": 31.7}, "pids": [1]}
+[2025-07-11 13:33:39] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2607828992, "used": 1023967232, "percent": 31.7}, "pids": [1]}
+[2025-07-11 13:33:47] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2612490240, "used": 1019105280, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:33:59] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2612133888, "used": 1019461632, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:34:07] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2613248000, "used": 1018687488, "percent": 31.6}, "pids": [1]}
+[2025-07-11 13:35:48] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2828877824, "used": 804294656, "percent": 25.9}, "pids": [1]}
+[2025-07-11 13:35:56] {"cpu_percent": 11.2, "memory": {"total": 3818835968, "available": 2817966080, "used": 813105152, "percent": 26.2}, "pids": [1]}
+[2025-07-11 13:36:07] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2781958144, "used": 843395072, "percent": 27.2}, "pids": [1]}
+[2025-07-11 13:36:18] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2779213824, "used": 846356480, "percent": 27.2}, "pids": [1]}
+[2025-07-11 13:36:27] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2772557824, "used": 853491712, "percent": 27.4}, "pids": [1]}
+[2025-07-11 13:36:38] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2771750912, "used": 854343680, "percent": 27.4}, "pids": [1]}
+[2025-07-11 13:36:49] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2767794176, "used": 858300416, "percent": 27.5}, "pids": [1]}
+[2025-07-11 13:36:57] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2766782464, "used": 858939392, "percent": 27.5}, "pids": [1]}
+[2025-07-11 13:37:08] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2763988992, "used": 861728768, "percent": 27.6}, "pids": [1]}
+[2025-07-11 13:37:19] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2761908224, "used": 863809536, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:37:28] {"cpu_percent": 0.9, "memory": {"total": 3818835968, "available": 2761355264, "used": 864546816, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:37:39] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2759970816, "used": 865935360, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:37:47] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2763329536, "used": 862543872, "percent": 27.6}, "pids": [1]}
+[2025-07-11 13:37:58] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2761658368, "used": 864215040, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:38:09] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2759835648, "used": 866037760, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:38:17] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2757971968, "used": 867864576, "percent": 27.8}, "pids": [1]}
+[2025-07-11 13:38:28] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2757189632, "used": 868651008, "percent": 27.8}, "pids": [1]}
+[2025-07-11 13:38:39] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2755366912, "used": 870473728, "percent": 27.8}, "pids": [1]}
+[2025-07-11 13:38:48] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2755411968, "used": 870387712, "percent": 27.8}, "pids": [1]}
+[2025-07-11 13:38:59] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2757361664, "used": 868442112, "percent": 27.8}, "pids": [1]}
+[2025-07-11 13:39:07] {"cpu_percent": 1.1, "memory": {"total": 3818835968, "available": 2759802880, "used": 865902592, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:39:18] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2759663616, "used": 866041856, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:39:29] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2759241728, "used": 866459648, "percent": 27.7}, "pids": [1]}
+[2025-07-11 13:40:04] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2778763264, "used": 853024768, "percent": 27.2}, "pids": [1]}
+[2025-07-11 13:40:15] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2780160000, "used": 851537920, "percent": 27.2}, "pids": [1]}
+[2025-07-11 13:40:22] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2776346624, "used": 855351296, "percent": 27.3}, "pids": [1, 9]}
+[2025-07-11 13:40:32] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2769330176, "used": 862314496, "percent": 27.5}, "pids": [1, 9]}
+[2025-07-11 13:40:43] {"cpu_percent": 5.3, "memory": {"total": 3818835968, "available": 2765520896, "used": 866119680, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:40:54] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2763546624, "used": 868093952, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:41:02] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2762797056, "used": 868642816, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:41:13] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2760884224, "used": 870715392, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:41:24] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2762452992, "used": 869146624, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:41:35] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2762211328, "used": 869380096, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:41:42] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2762399744, "used": 869191680, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:41:52] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2762153984, "used": 869236736, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:42:03] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2763169792, "used": 868347904, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:42:14] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2755346432, "used": 876171264, "percent": 27.8}, "pids": [1, 9]}
+[2025-07-11 13:42:22] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2754547712, "used": 876920832, "percent": 27.9}, "pids": [1, 9]}
+[2025-07-11 13:42:33] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2759000064, "used": 872488960, "percent": 27.8}, "pids": [1, 9]}
+[2025-07-11 13:42:44] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2764288000, "used": 867201024, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:42:53] {"cpu_percent": 0.9, "memory": {"total": 3818835968, "available": 2764054528, "used": 867233792, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:43:04] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2761445376, "used": 870006784, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:43:15] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2764722176, "used": 866729984, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:43:23] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2763886592, "used": 867323904, "percent": 27.6}, "pids": [1, 9]}
+[2025-07-11 13:43:34] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2762031104, "used": 869371904, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:43:42] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2759884800, "used": 871276544, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:43:53] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2759110656, "used": 872050688, "percent": 27.7}, "pids": [1, 9]}
+[2025-07-11 13:44:04] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2757644288, "used": 873705472, "percent": 27.8}, "pids": [1, 9]}
+[2025-07-11 13:44:13] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2746630144, "used": 878211072, "percent": 28.1}, "pids": [1, 9]}
+[2025-07-11 13:44:24] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2738913280, "used": 885862400, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:44:35] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2740920320, "used": 883855360, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:44:43] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2739556352, "used": 885018624, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:44:54] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2741633024, "used": 883752960, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:45:05] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2741358592, "used": 884097024, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:45:16] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2743500800, "used": 881954816, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:45:23] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2740961280, "used": 884375552, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:45:33] {"cpu_percent": 2.2, "memory": {"total": 3818835968, "available": 2740658176, "used": 884719616, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:45:44] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2736549888, "used": 888836096, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:45:55] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742730752, "used": 882655232, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:46:03] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2743230464, "used": 881954816, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:46:14] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2740416512, "used": 884969472, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:46:25] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2740092928, "used": 885293056, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:46:36] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2737790976, "used": 887595008, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:46:44] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2737840128, "used": 887545856, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:46:53] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2736308224, "used": 888877056, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:47:04] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2735050752, "used": 889933824, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:47:15] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2735308800, "used": 890068992, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:47:24] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2733993984, "used": 890990592, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:47:35] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2733514752, "used": 891461632, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:47:46] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2737782784, "used": 887595008, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:47:56] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2739761152, "used": 885616640, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:48:04] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2739281920, "used": 886104064, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:48:16] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2737037312, "used": 888348672, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:48:27] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741751808, "used": 883634176, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:48:34] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2741673984, "used": 883703808, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:48:44] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2741985280, "used": 883212288, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:48:55] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2740199424, "used": 884789248, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:49:06] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2738155520, "used": 887230464, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:49:14] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2736685056, "used": 888700928, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:49:25] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2744770560, "used": 880615424, "percent": 28.1}, "pids": [1, 9]}
+[2025-07-11 13:49:36] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2747879424, "used": 877441024, "percent": 28.0}, "pids": [1, 9]}
+[2025-07-11 13:49:45] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2744741888, "used": 880578560, "percent": 28.1}, "pids": [1, 9]}
+[2025-07-11 13:49:56] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2746757120, "used": 878563328, "percent": 28.1}, "pids": [1, 9]}
+[2025-07-11 13:50:04] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2741989376, "used": 883195904, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:50:15] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741940224, "used": 883245056, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:50:26] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2738851840, "used": 886439936, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:50:35] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2736766976, "used": 888356864, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:50:46] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2735296512, "used": 889827328, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:50:57] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2740957184, "used": 884363264, "percent": 28.2}, "pids": [1, 9]}
+[2025-07-11 13:51:05] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2737164288, "used": 887738368, "percent": 28.3}, "pids": [1, 9]}
+[2025-07-11 13:51:16] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2734841856, "used": 890064896, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:51:24] {"cpu_percent": 1.0, "memory": {"total": 3818835968, "available": 2733957120, "used": 891154432, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:51:35] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2733965312, "used": 891146240, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:51:46] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2734063616, "used": 891047936, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:51:55] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2734714880, "used": 890298368, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:52:06] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2735091712, "used": 889925632, "percent": 28.4}, "pids": [1, 9]}
+[2025-07-11 13:52:17] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2731962368, "used": 893214720, "percent": 28.5}, "pids": [1, 9]}
+[2025-07-11 13:52:48] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2744598528, "used": 886337536, "percent": 28.1}, "pids": [1, 7]}
+[2025-07-11 13:52:59] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2737553408, "used": 893411328, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:53:10] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2735239168, "used": 895725568, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:53:18] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2737512448, "used": 893956096, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:53:30] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741334016, "used": 890339328, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:53:41] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2741727232, "used": 889819136, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:53:49] {"cpu_percent": 0.5, "memory": {"total": 3818835968, "available": 2736836608, "used": 894754816, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:00] {"cpu_percent": 0.8, "memory": {"total": 3818835968, "available": 2737451008, "used": 894132224, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:08] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2737373184, "used": 893988864, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:19] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2738778112, "used": 892583936, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:30] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2737819648, "used": 893542400, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:39] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2739662848, "used": 891928576, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:54:50] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2741014528, "used": 890576896, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:55:01] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2739150848, "used": 892440576, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:55:09] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2739752960, "used": 891830272, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:55:20] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2741878784, "used": 889712640, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:55:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741362688, "used": 890228736, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:55:39] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2741575680, "used": 889995264, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:55:51] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742632448, "used": 888938496, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:55:59] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742484992, "used": 889286656, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:56:10] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742562816, "used": 889020416, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:56:21] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742714368, "used": 888877056, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:56:32] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741071872, "used": 890519552, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:56:39] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2745122816, "used": 886468608, "percent": 28.1}, "pids": [1, 7]}
+[2025-07-11 13:56:50] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2741190656, "used": 890400768, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:57:00] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2741858304, "used": 889733120, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:57:11] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2739785728, "used": 891805696, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:57:19] {"cpu_percent": 0.7, "memory": {"total": 3818835968, "available": 2743058432, "used": 888487936, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:57:31] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2743091200, "used": 888455168, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:57:42] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2742157312, "used": 889389056, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 13:57:50] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2735620096, "used": 895524864, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:58:01] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2738364416, "used": 893165568, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:58:12] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2738122752, "used": 893415424, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:58:21] {"cpu_percent": 1.2, "memory": {"total": 3818835968, "available": 2735292416, "used": 896200704, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:58:32] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2738778112, "used": 892715008, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:58:43] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2738819072, "used": 892674048, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:58:51] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2737045504, "used": 894390272, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:59:02] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2736046080, "used": 895389696, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:59:13] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2735304704, "used": 896131072, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:59:24] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2735296512, "used": 895946752, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:59:32] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2735276032, "used": 896159744, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 13:59:41] {"cpu_percent": 2.6, "memory": {"total": 3818835968, "available": 2737778688, "used": 893845504, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 13:59:52] {"cpu_percent": 0.6, "memory": {"total": 3818835968, "available": 2736529408, "used": 894832640, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:00:04] {"cpu_percent": 0.4, "memory": {"total": 3818835968, "available": 2736304128, "used": 895090688, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:00:12] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2736082944, "used": 895066112, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 14:00:23] {"cpu_percent": 2.2, "memory": {"total": 3818835968, "available": 2740510720, "used": 890638336, "percent": 28.2}, "pids": [1, 7]}
+[2025-07-11 14:00:31] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2737115136, "used": 894480384, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:00:42] {"cpu_percent": 7.1, "memory": {"total": 3818835968, "available": 2738368512, "used": 893235200, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:00:53] {"cpu_percent": 0.2, "memory": {"total": 3818835968, "available": 2737876992, "used": 893718528, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:01:02] {"cpu_percent": 0.3, "memory": {"total": 3818835968, "available": 2736783360, "used": 894820352, "percent": 28.3}, "pids": [1, 7]}
+[2025-07-11 14:01:13] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2734587904, "used": 897015808, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 14:01:24] {"cpu_percent": 0.1, "memory": {"total": 3818835968, "available": 2731675648, "used": 899928064, "percent": 28.5}, "pids": [1, 7]}
+[2025-07-11 14:01:33] {"cpu_percent": 0.0, "memory": {"total": 3818835968, "available": 2732277760, "used": 899125248, "percent": 28.5}, "pids": [1, 7]}
+[2025-07-11 14:01:44] {"cpu_percent": 1.3, "memory": {"total": 3818835968, "available": 2734006272, "used": 897593344, "percent": 28.4}, "pids": [1, 7]}
+[2025-07-11 14:01:52] {"cpu_percent": 1.5, "memory": {"total": 3818835968, "available": 2737434624, "used": 893759488, "percent": 28.3}, "pids": [1, 7]}
